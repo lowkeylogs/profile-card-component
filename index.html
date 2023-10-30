@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Frontend mentor | Profile card component</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- Card component -->
+      <main>
+        <article class="profile-card">
+          <header class="profile-card__header">
+            <img
+              class="profile-card__image"
+              src="./images/image-victor.jpg"
+              alt="Victor Crest's profile picture"
+            />
+
+            <div class="profile-card__info">
+              <div class="profile-card__basic-info">
+                <h1 class="profile-card__name">Victor Crest</h1>
+                <span class="profile-card__age">26</span>
+              </div>
+
+              <p class="profile-card__location">London</p>
+            </div>
+          </header>
+
+          <footer class="profile-card__footer">
+            <ul class="profile-card__metrics">
+              <li class="profile-card__metric">
+                <p class="profile-card__metric-number">80K</p>
+                <span class="profile-card__metric-label">Followers</span>
+              </li>
+
+              <li class="profile-card__metric">
+                <p class="profile-card__metric-number">803K</p>
+                <span class="profile-card__metric-label">Likes</span>
+              </li>
+
+              <li class="profile-card__metric">
+                <p class="profile-card__metric-number">1.4K</p>
+                <span class="profile-card__metric-label">Photos</span>
+              </li>
+            </ul>
+          </footer>
+        </article>
+      </main>
+
+      <!-- Attribution -->
+      <footer>
+        <p class="attribution">
+          Challenge by
+          <a
+            class="attribution__link"
+            href="https://www.frontendmentor.io?ref=challenge"
+            target="_blank"
+            >Frontend Mentor</a
+          >. Coded by
+          <a
+            class="attribution__link"
+            href="https://github.com/amgnim"
+            target="_blank"
+            >Mingma</a
+          >.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
