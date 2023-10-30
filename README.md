@@ -6,5 +6,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Profile card component](https://www.frontendmentor.io/)
+- Solution URL: [Profile card component](https://www.frontendmentor.io/solutions/profile-card-component-with-pseudo-elements-oKUQRNkHsj)
 - Live Site URL: [https://amgnim.github.io/profile-card-component/](https://amgnim.github.io/profile-card-component/)
