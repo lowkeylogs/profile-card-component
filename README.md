@@ -7,4 +7,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Profile card component](https://www.frontendmentor.io/)
-- Live Site URL: [https://github.com/amgnim](https://github.com/amgnim)
+- Live Site URL: [https://amgnim.github.io/profile-card-component/](https://amgnim.github.io/profile-card-component/)
